@@ -19,7 +19,7 @@
     "require_ssl": false
   },
   "createdAt": "2025-07-03T00:13:04.447Z",
-  "updatedAt": "2025-07-03T00:56:53.404Z",
+  "updatedAt": "2025-07-03T01:15:13.393Z",
   "questions": [
     {
       "esm_submit": "Submit",
@@ -253,11 +253,11 @@
     },
     {
       "setting": "status_light",
-      "value": false
+      "value": true
     },
     {
       "setting": "frequency_light",
-      "value": 20000
+      "value": 200000
     },
     {
       "setting": "threshold_light",
@@ -297,19 +297,19 @@
     },
     {
       "setting": "frequency_gps",
-      "value": 60
+      "value": 10
     },
     {
       "setting": "frequency_network",
-      "value": 120
+      "value": 10
     },
     {
       "setting": "min_location_gps_accuracy",
-      "value": 150
+      "value": 10
     },
     {
       "setting": "min_location_network_accuracy",
-      "value": 1500
+      "value": 10
     },
     {
       "setting": "location_expiration_time",
