@@ -293,7 +293,7 @@
     },
     {
       "setting": "status_location_network",
-      "value": false
+      "value": true
     },
     {
       "setting": "frequency_gps",
@@ -301,7 +301,7 @@
     },
     {
       "setting": "frequency_network",
-      "value": 300
+      "value": 60
     },
     {
       "setting": "min_location_gps_accuracy",
@@ -313,7 +313,7 @@
     },
     {
       "setting": "location_expiration_time",
-      "value": 1800
+      "value": 6000
     },
     {
       "setting": "status_location_passive",
