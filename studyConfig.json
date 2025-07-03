@@ -19,7 +19,7 @@
     "require_ssl": false
   },
   "createdAt": "2025-07-03T00:13:04.447Z",
-  "updatedAt": "2025-07-03T01:15:13.393Z",
+  "updatedAt": "2025-07-03T04:07:56.767Z",
   "questions": [
     {
       "esm_submit": "Submit",
@@ -81,7 +81,7 @@
     },
     {
       "setting": "debug_flag",
-      "value": false
+      "value": true
     },
     {
       "setting": "frequency_sync_config",
@@ -89,7 +89,7 @@
     },
     {
       "setting": "enable_config_update",
-      "value": false
+      "value": true
     },
     {
       "setting": "status_applications",
