@@ -77,7 +77,7 @@
     },
     {
       "setting": "foreground_priority",
-      "value": false
+      "value": true
     },
     {
       "setting": "debug_flag",
