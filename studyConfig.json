@@ -297,19 +297,19 @@
     },
     {
       "setting": "frequency_gps",
-      "value": 10
+      "value": 60
     },
     {
       "setting": "frequency_network",
-      "value": 10
+      "value": 120
     },
     {
       "setting": "min_location_gps_accuracy",
-      "value": 10
+      "value": 150
     },
     {
       "setting": "min_location_network_accuracy",
-      "value": 10
+      "value": 1500
     },
     {
       "setting": "location_expiration_time",
