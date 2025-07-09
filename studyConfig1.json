@@ -9,9 +9,9 @@
   },
   "database": {
     "database_host": "202.31.147.127",
-    "database_port": "3306",
+    "database_port": "3345",
     "database_name": "etri_aware",
-    "database_username": "rungeun",
+    "database_username": "etri",
     "database_password": "-",
     "config_without_password": true,
     "rootUsername": "-",
