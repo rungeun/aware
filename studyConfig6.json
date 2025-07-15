@@ -453,15 +453,11 @@
     },
     {
       "setting": "units_plugin_fitbit",
-      "value": ""
-    },
-    {
-      "setting": "units_plugin_fitbit",
       "value": "metric"
     },
     {
       "setting": "plugin_fitbit_frequency",
-      "value": "1"
+      "value": 1
     },
     {
       "setting": "fitbit_granularity",
