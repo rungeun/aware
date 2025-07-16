@@ -456,18 +456,6 @@
       "value": "metric"
     },
     {
-      "setting": "plugin_fitbit_frequency",
-      "value": 1
-    },
-    {
-      "setting": "fitbit_granularity",
-      "value": "1min"
-    },
-    {
-      "setting": "fitbit_hr_granularity",
-      "value": "1min"
-    },
-    {
       "setting": "api_key_plugin_fitbit",
       "value": "23QNPH"
     },
